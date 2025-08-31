@@ -44,8 +44,8 @@ Qconnect offers:
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB / Firebase
-- **Hosting**: Netlify (Frontend), Heroku (Planned for backend)
+- **Database**: MongoDB
+- **Hosting**: Vercel
 
 ---
 
